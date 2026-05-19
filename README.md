@@ -18,4 +18,4 @@ YALLA BAU is a Flutter-based university bus tracking system.
 - Cloud Firestore
 
 ## Developed By
-Daniella Jaber
+Daniella Jaber and Fatima Ghammam
