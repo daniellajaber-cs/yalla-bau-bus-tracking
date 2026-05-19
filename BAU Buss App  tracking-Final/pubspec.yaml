@@ -1,0 +1,40 @@
+
+name: baubussapp              # App name (used internally in Flutter)
+description: A new Flutter project.   # Short description of the app
+
+publish_to: 'none'         
+
+version: 1.0.0+1          
+environment:
+  sdk: ^3.7.0         
+
+dependencies:
+  flutter:
+    sdk: flutter        
+
+  cupertino_icons: ^1.0.8     
+
+  shared_preferences: ^2.5.5  # Save simple data locally (e.g. login, settings)
+
+  firebase_core: ^2.30.0      # Required to initialize Firebase
+
+  firebase_auth: ^4.20.0      # Handles login/register (student & driver)
+
+  cloud_firestore: ^4.17.5    # Database (used for trips, users, notifications)
+
+  firebase_messaging: ^14.9.4 # Push notifications 
+
+  url_launcher: ^6.3.0        # Open links (used for WhatsApp in Help Center)
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter              
+
+  flutter_lints: ^5.0.0       
+
+flutter:
+  uses-material-design: true 
+
+  assets:
+    - assets/                 # Folder for images, icons, etc.

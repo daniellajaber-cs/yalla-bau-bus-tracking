@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896268056395",
+    "project_id": "yalla-bau",
+    "storage_bucket": "yalla-bau.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896268056395:android:c21998845fc55b941e1ace",
+        "android_client_info": {
+          "package_name": "com.example.baubussapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896268056395-24h1orkchvogr0qk89tba7oh92u73e21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN4VVAVMBKT-LT0XMLUjHlDwrv7sjzgAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896268056395-24h1orkchvogr0qk89tba7oh92u73e21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
